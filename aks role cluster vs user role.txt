@@ -1,0 +1,3 @@
+azure kubernetes service cluster admin role
+user role.
+https://medium.com/@weinong/azure-kubernetes-service-built-in-roles-8083b90e7ba
